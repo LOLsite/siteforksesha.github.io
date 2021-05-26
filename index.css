@@ -1,7 +1,7 @@
 body {
    background-position: fixed;
    background-image: url(bg.jpg); /* Путь к фоновому изображению */
-   background-size: 100%
+   background-size: 300%;
   }
 
 .title1 {
