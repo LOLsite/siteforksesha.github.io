@@ -6,10 +6,14 @@ body {
 
 .title1 {
   position: fixed;
-  left: 42%;
+  font-size: 500%;
+  font-weight: bold;
+  left: 35%;
 }
 .title2 {
   position: fixed;
-  left: 45%;
+  font-size: 500%;
+  font-weight: bold;
+  left: 42%;
   top:15%;
 }
