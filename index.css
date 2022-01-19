@@ -2,6 +2,7 @@ body {
    background-position: fixed;
    background-image: url(bg.jpg); /* Путь к фоновому изображению */
    background-size: 300%;
+   opacity:0.8;filter:alpha(opacity=40);
   }
 
 .title1 {
@@ -9,11 +10,13 @@ body {
   font-size: 500%;
   font-weight: bold;
   left: 35%;
+  box-shadow: -19px 0 22px -19px #000, 19px 0 22px -19px #000;
 }
 .title2 {
   position: fixed;
   font-size: 500%;
   font-weight: bold;
-  left: 42%;
+  left: 43%;
   top:15%;
+  box-shadow: -19px 0 22px -19px #000, 19px 0 22px -19px #000;
 }
