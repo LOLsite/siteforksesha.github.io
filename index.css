@@ -10,7 +10,11 @@ body {
   font-size: 500%;
   font-weight: bold;
   left: 35%;
-  box-shadow: -19px 0 22px -19px #000, 19px 0 22px -19px #000;
+  box-shadow: -20px 0 24px -20px #000, 20px 0 24px -20px #000;
+  transition: 1s;
+}
+.title1:hover {
+ transform: scale(1.2); /* Увеличиваем масштаб */
 }
 .title2 {
   position: fixed;
@@ -19,4 +23,8 @@ body {
   left: 43%;
   top:15%;
   box-shadow: -19px 0 22px -19px #000, 19px 0 22px -19px #000;
+  transition: 1s;
+}
+.title2:hover {
+ transform: scale(1.2); /* Увеличиваем масштаб */
 }
